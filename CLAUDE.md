@@ -1,0 +1,3 @@
+- The initial-code folder contains the source code of an existing UI implementation.
+- Based on this code we build a component library in the components-code folder.
+- For each component we create samples of how to be used in the components-use-cases folder.
