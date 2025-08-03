@@ -34,11 +34,6 @@
   --header-bg: #4B5B8A;
   --hover-bg: rgba(255, 255, 255, 0.1);
   
-  /* ResizablePanel specific */
-  --panel-bg: #2A2E3A;
-  --resize-handle-bg: #5B8BC9;
-  --resize-handle-hover: #7FA8D7;
-  
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -73,11 +68,6 @@
   /* Header remains same color in light theme */
   --header-bg: #4B5B8A;
   --hover-bg: rgba(255, 255, 255, 0.1);
-  
-  /* ResizablePanel specific for light theme */
-  --panel-bg: #FFFFFF;
-  --resize-handle-bg: #345085;
-  --resize-handle-hover: #5B8BC9;
 }
 
 * {
